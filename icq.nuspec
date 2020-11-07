@@ -17,10 +17,10 @@ even with bad internet connection
     <copyright>LLC Mail.Ru</copyright>
     <licenseUrl>https://help.mail.ru/legal/terms/icq/eng/copyright</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>Not found</releaseNotes>
     <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-icq@master/icq.png</iconUrl>
     <docsUrl>https://help.mail.ru/legal/terms/icq/eng</docsUrl>
-    <packageSourceUrl>https://github.com/zersh01/chocolatey-icqnew</packageSourceUrl>
+    <packageSourceUrl>https://github.com/zersh01/chocolatey-icq</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
