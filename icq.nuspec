@@ -7,7 +7,7 @@
     <version>10.0.42540</version>
     <authors>LLC Mail.Ru</authors>
     <owners>zersh</owners>
-    <summary>ICQ</summary>
+    <summary>ICQ New </summary>
     <description>ICQ New — stay connected
 Convert audio messages to text, use smart replies, stay online
 even with bad internet connection
@@ -18,7 +18,7 @@ even with bad internet connection
     <licenseUrl>https://help.mail.ru/legal/terms/icq/eng/copyright</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes></releaseNotes>
-    <iconUrl>https://icq.com/cached/img/landing/desktop/logo.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-icq@master/icq.png</iconUrl>
     <docsUrl>https://help.mail.ru/legal/terms/icq/eng</docsUrl>
     <packageSourceUrl>https://github.com/zersh01/chocolatey-icqnew</packageSourceUrl>
   </metadata>
