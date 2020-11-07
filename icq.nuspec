@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>icq</id>
+    <title>ICQ</title>
+    <version>10.0.42540</version>
+    <authors>LLC Mail.Ru</authors>
+    <owners>zersh</owners>
+    <summary>ICQ</summary>
+    <description>ICQ New — stay connected
+Convert audio messages to text, use smart replies, stay online
+even with bad internet connection
+</description>
+    <projectUrl>https://icq.com</projectUrl>
+    <tags>icq messenger</tags>
+    <copyright>LLC Mail.Ru</copyright>
+    <licenseUrl>https://help.mail.ru/legal/terms/icq/eng/copyright</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+    <iconUrl>https://icq.com/cached/img/landing/desktop/logo.png</iconUrl>
+    <docsUrl>https://help.mail.ru/legal/terms/icq/eng</docsUrl>
+    <packageSourceUrl>https://github.com/zersh01/chocolatey-icqnew</packageSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
