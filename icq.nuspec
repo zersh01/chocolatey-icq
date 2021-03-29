@@ -21,7 +21,12 @@ even with bad internet connection
     <copyright>LLC Mail.Ru</copyright>
     <licenseUrl>https://help.mail.ru/legal/terms/icq/eng/copyright</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>Not Found.</releaseNotes>
+    <releaseNotes>- Added the display of the full file name in the chat and in the chat gallery when you hover the cursor
+- Added the display of the full user name, chat name, or channel when hovering the cursor
+- Made the setting "Show notifications when the app is active" and Settings -> Notifications
+- - Fixed crashes on Linux when playing some animated stickers
+- - Removed the display of your video when viewing the demo screen in the call window
+- Other fixes and improvements</releaseNotes>
     <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-icq@master/icq.png</iconUrl>
     <docsUrl>https://help.mail.ru/legal/terms/icq/eng</docsUrl>
     <packageSourceUrl>https://github.com/zersh01/chocolatey-icq</packageSourceUrl>
