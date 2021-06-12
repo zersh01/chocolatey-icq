@@ -4,7 +4,7 @@
   <metadata>
     <id>icq</id>
     <title>ICQ</title>
-    <version>10.0.444115</version>
+    <version>10.0.447340</version>
     <authors>LLC Mail.Ru</authors>
     <owners>zersh</owners>
     <summary>ICQ New </summary>
@@ -21,11 +21,16 @@ even with bad internet connection
     <copyright>LLC Mail.Ru</copyright>
     <licenseUrl>https://help.mail.ru/legal/terms/icq/eng/copyright</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>- Added the display of the full file name in the chat and in the chat gallery when you hover the cursor
-- Added the display of the full user name, chat name, or channel when hovering the cursor
-- Made the setting "Show notifications when the app is active" and Settings -> Notifications
-- - Fixed crashes on Linux when playing some animated stickers
-- - Removed the display of your video when viewing the demo screen in the call window
+    <releaseNotes>- Text formatting
+Make it bold, underlined, mono-bold, strikethrough, or add a link to the text
+
+- Draft
+For unsent messages, a draft is saved, which is duplicated on all your devices.
+
+- Alert about a disconnected microphone during a call
+
+- Setting to show notifications when the app is active
+
 - Other fixes and improvements</releaseNotes>
     <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-icq@master/icq.png</iconUrl>
     <docsUrl>https://help.mail.ru/legal/terms/icq/eng</docsUrl>
