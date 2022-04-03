@@ -9,7 +9,7 @@ $packageArgs = @{
   url           = $url
   softwareName  = 'icq' 
 
-  checksum      = '8B967DEF8ED171D415325EEAD416EE56FC0E4599B0F7E0D9ECA3D25139E4D261'
+  checksum      = '95412F7C8D00529A78BBC0EDDA899B05E24A1095A3D0550E49B6EA3A29A620AD'
   checksumType  = 'sha256'
 
   validExitCodes= @(0, 3010, 1641)
